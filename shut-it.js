@@ -1,6 +1,6 @@
 /**
 
- * DumfriesSuite was based on the Amazon Alexa
+ * Shut-it was based on the Amazon Alexa
  * nodejs skill development kit, myfactskill, space facts.
 
  **/
@@ -21,11 +21,7 @@ const HELP_MESSAGE = 'You can say shut it, or, you can say exit... What can I he
 const HELP_REPROMPT = 'What can I help you with?';
 const STOP_MESSAGE = 'Goodbye!';
 
-//=========================================================================================================================================
-
-//Thanks to space fact.  You can find translations of space fact at http://github.com/alexa/skill-sample-node-js-fact/lambda/data
-
-//=========================================================================================================================================
+//============================================================================================================================================================================================================================================================================
 
 const data = [
 "I am so so sorry.",
